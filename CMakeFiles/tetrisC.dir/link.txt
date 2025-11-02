@@ -1,0 +1,1 @@
+/usr/bin/gcc -g -Wl,--dependency-file=CMakeFiles/tetrisC.dir/link.d CMakeFiles/tetrisC.dir/main.c.o -o tetrisC
