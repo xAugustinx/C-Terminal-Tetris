@@ -1,3 +1,0 @@
-/mnt/nvme256/home/CLionProjects/tetrisC/cmake-build-debug/CMakeFiles/tetrisC.dir
-/mnt/nvme256/home/CLionProjects/tetrisC/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/nvme256/home/CLionProjects/tetrisC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
