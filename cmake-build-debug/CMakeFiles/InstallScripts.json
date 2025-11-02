@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/mnt/nvme256/home/CLionProjects/tetrisC/cmake-build-debug/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
